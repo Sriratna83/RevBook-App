@@ -11,14 +11,14 @@ Aplikasi yang digunakan untuk menambahkan dan mencari Review dari sebuah buku.
 - Melakukan pencarian
 
 
-## Android Screenshots
+## Screenshots
 
-  Sing Up                  |   Sing In                 |  Home Page
+  Sing Up                  |   Sing In                 |   Home Page
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_ecommerce_app/blob/master/screenshots/screenshot_ios_1.png?raw=true)|![](https://github.com/TheAlphamerc/flutter_ecommerce_app/blob/master/screenshots/screenshot_ios_2.png?raw=true)|![](https://github.com/TheAlphamerc/flutter_ecommerce_app/blob/master/screenshots/screenshot_ios_3.png?raw=true)
+![](https://github.com/Sriratna83/RevBook-App/blob/master/screenshot/1.JPG?raw=true)|![](https://github.com/Sriratna83/RevBook-App/blob/master/screenshot/2.JPG?raw=true)|![](https://github.com/Sriratna83/RevBook-App/blob/master/screenshot/3.JPG?raw=true)
   Detail Page              |   Bookmark Page           |  Search
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_ecommerce_app/blob/master/screenshots/screenshot_ios_1.png?raw=true)|![](https://github.com/TheAlphamerc/flutter_ecommerce_app/blob/master/screenshots/screenshot_ios_2.png?raw=true)|![](https://github.com/TheAlphamerc/flutter_ecommerce_app/blob/master/screenshots/screenshot_ios_3.png?raw=true)
-  Add Book                 |  Library                  | 
-:-------------------------:|:-------------------------:|
-![](https://github.com/TheAlphamerc/flutter_ecommerce_app/blob/master/screenshots/screenshot_ios_1.png?raw=true)|![](https://github.com/TheAlphamerc/flutter_ecommerce_app/blob/master/screenshots/screenshot_ios_2.png?raw=true)|s
+![](https://github.com/Sriratna83/RevBook-App/blob/master/screenshot/7.JPG?raw=true)|![](https://github.com/Sriratna83/RevBook-App/blob/master/screenshot/5.JPG?raw=true)|![](https://github.com/Sriratna83/RevBook-App/blob/master/screenshot/8.JPG?raw=true)
+  Drawer                   |   Library                 |   Add PAGE
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/Sriratna83/RevBook-App/blob/master/screenshot/6.JPG?raw=true)|![](https://github.com/Sriratna83/RevBook-App/blob/master/screenshot/4.JPG?raw=true)|![](https://github.com/Sriratna83/RevBook-App/blob/master/screenshot/9.JPG?raw=true)
