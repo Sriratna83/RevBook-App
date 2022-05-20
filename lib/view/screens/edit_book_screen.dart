@@ -136,7 +136,7 @@ class _EditBookScreenState extends State<EditBookScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Edit Book'),
+        title: const Text('Add Book'),
         actions: [
           IconButton(
             icon: const Icon(
@@ -201,7 +201,7 @@ class _EditBookScreenState extends State<EditBookScreen> {
                     ),
                     TextFormField(
                         decoration: const InputDecoration(
-                          labelText: 'Description',
+                          labelText: 'Review',
                         ),
                         maxLines: 3,
                         keyboardType: TextInputType.multiline,
